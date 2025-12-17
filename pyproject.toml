@@ -7,7 +7,7 @@ name = "src"
 version = "0.0.1"
 description = "We use scene graphs to uncover framing bias."
 authors = [
-  { name = "SF" },
+  { name = "authors" },
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
